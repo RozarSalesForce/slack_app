@@ -1,0 +1,5 @@
+{
+    "mongo_url": "mongodb+srv://yogeshbhakli:4f27NeSt02fIZUFl@cluster0.nsri0sp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "backend_url_tasks": "http://127.0.0.1:5000/tasks",
+    "backend_url_users": "http://127.0.0.1:5000/user"
+}
